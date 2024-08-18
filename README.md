@@ -6,6 +6,11 @@ This project was conducted for the **IEEE Systems, Man, and Cybernetics Society 
 
 We conducted an extensive study on multiple variables that potentially influence students' performance. The primary aim was to uncover the connections between psychological flexibility and the physical and mental health of students. Understanding these relationships can provide valuable insights into enhancing both the well-being and academic success of students.
 
+## **Machine Learning**
+
+![main](RandomForest_results.png)
+![main](LogisticRegression_Results.png)
+
 ## **Results Summary**
 
 - **Psychological flexibility is...**
